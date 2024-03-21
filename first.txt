@@ -2,3 +2,4 @@ this is the first
 second line in first
 third line in first
 third line in master
+fourth line
