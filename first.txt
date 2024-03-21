@@ -3,3 +3,4 @@ second line in first
 third line in first
 third line in master
 fourth line
+fifth line
